@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Over “Quartzer”（『仮面ライダージオウ』主題歌）",
+  "base_artist": "Shuta Sueyoshi feat. ISSA",
+  "createdAt": "2025-12-20T07:47:25.118011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Over “Quartzer”(『仮面ライダージオウ』主題歌)",
+      "artist": "Shuta Sueyoshi, ISSA",
+      "has_synced": true,
+      "path": "select/01_Over_“Quartzer”(『仮面ライダージオウ』主題歌)_Shuta_Sueyoshi,_ISSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Over “Quartzer”(『仮面ライダージオウ』主題歌)",
+      "artist": "Shuta Sueyoshi",
+      "has_synced": true,
+      "path": "select/02_Over_“Quartzer”(『仮面ライダージオウ』主題歌)_Shuta_Sueyoshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Over \"Quartzer\"",
+      "artist": "Shuta Sueyoshi feat. ISSA",
+      "has_synced": false,
+      "path": "select/pl_01_Over__Quartzer_Shuta_Sueyoshi_feat._ISSA.txt"
+    }
+  ]
+}
